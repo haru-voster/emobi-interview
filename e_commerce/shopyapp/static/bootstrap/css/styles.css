@@ -1,0 +1,9 @@
+.product-form, .register-form{
+    width: 40%;
+    margin: auto;
+   
+}
+p{
+    align-items: center;
+    color: aqua;
+}
